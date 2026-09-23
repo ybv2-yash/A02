@@ -80,7 +80,7 @@ To **push** is to send your saved snapshots to the online **repository**.
 - **Branch** - A separate line of development inside a **repository** that lets you try changes without affecting the main version. [2]
 - **Clone** - To download a complete copy of a **remote** **repository** to your own computer. [2]
 - **Commit** - A saved snapshot of your changes in the **repository**, stored with a short message describing the change. [2]
-- **Fetch** - Downloading new information from a **remote** **repository** without changing your working files. [2]
+- **Fetch** - Downloading new information from a **remote** **repository** without changing your working files, so it is a safe way to check for updates. [2]
 - **GIT** - A free version control system that tracks changes to files over time and lets many people work on the same project. [2]
 - **Github** - A website that hosts **Git** projects online so people can store, share, and work together on them. [6]
 - **Merge** - Combining the changes from one **branch** into another. [2]
